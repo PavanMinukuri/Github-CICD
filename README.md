@@ -58,20 +58,28 @@ Secret Name	Description
 
 **Trigger CI (Main Branch)**
 1.Make a change in main
+
 2.Commit changes
+
 3.Go to Actions tab to view pipeline execution
 
 **Trigger Staging Deployment**
 1.Switch to staging branch
+
 2.Make a small code change
+
 3.Commit changes
+
 4.Pipeline will deploy to staging
 
 **Trigger Production Deployment**
 1.Go to Releases
+
 2.Click Create new release
+
 3.Add tag (e.g., v1.0)
 4.Publish release
+
 5.Production deployment will run automatically
 
 **Successful CI Pipeline**

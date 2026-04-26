@@ -55,15 +55,18 @@ Secret Name	Description
 <img width="1176" height="318" alt="image" src="https://github.com/user-attachments/assets/86b8534c-64a6-4df8-ba4b-f229a29c1fd8" />
 .
 **How to Run the Pipeline**
+
 **Trigger CI (Main Branch)**
 1.Make a change in main
 2.Commit changes
 3.Go to Actions tab to view pipeline execution
+
 **Trigger Staging Deployment**
 1.Switch to staging branch
 2.Make a small code change
 3.Commit changes
 4.Pipeline will deploy to staging
+
 **Trigger Production Deployment**
 1.Go to Releases
 2.Click Create new release
